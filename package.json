@@ -1,0 +1,20 @@
+{
+  "name": "es6-cheat-sheet",
+  "version": "1.0.0",
+  "description": "Fiche récapitulative ES6 - Utilisable en cours",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffLeFoll/es6-cheat-sheet.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeffLeFoll/es6-cheat-sheet/issues"
+  },
+  "homepage": "https://github.com/JeffLeFoll/es6-cheat-sheet#readme",
+  "dependencies": {}
+}
